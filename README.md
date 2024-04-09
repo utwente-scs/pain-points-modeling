@@ -1,4 +1,4 @@
-# pain-points-modeling
+# The Pain Points of Structural Conceptual Modeling
 
 The present repository consolidates a series of pain points encountered by modelers when involved with structural conceptual modeling. Those pain points were identified through the investigation delineated in publication X.
 
@@ -26,9 +26,18 @@ A comprehensive comprehension of this dataset holds the potential to refine and 
 	- [Results_QDS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Results_QDS.pdf)
 	- [Results_QDS.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Qualitative%20Data%20Synthesis/Results_QDS.csv)
 	- [Assembled Pain Points](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Assembled%20Pain%20Points.pdf)
-- [Delphy Study]
-	- [Round 1]
-
+- [Delphy Study](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study)
+	- [Round 1_Voting Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session)
+		- [Voting Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session/Voting%20Sessions)
+		- [Round 1_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.pdf)
+		- [Round 1_Results.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.csv)
+		- [Round 1_Virtual Workplace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Virtual%20Workplace%20Design.pdf)
+	- [Round 2_Prioritization Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session)
+		- [Prioritization Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session/Prioritization%20Sessions)
+		- [Round 2_Matrix Weighting System](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Matrix%20Weighting%20System.pdf)
+		- [Round 2_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.pdf)
+		- [Round 2_Results.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.csv)
+		- [Round 2_Virtual Workplace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Virtual%20Workplace%20Design.pdf.pdf)
 
 
 
