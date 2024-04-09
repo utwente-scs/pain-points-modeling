@@ -1,0 +1,42 @@
+﻿CJM Phase;Pain Point
+Phase 1: Modeling Approach Definition and Justification;I could not choose the modeling tool I wanted because of, e.g., cost, expertise, culture, or bureaucracy. 
+;My stakeholders resisted adopting modeling, a modeling language, or a tool because, e.g., they did not think it was worth it or I could not show its value. 
+;I was not sure which modeling tool to choose because, e.g., there were many alternatives, too many features, or the requirements were not clear. 
+;I could not find a model-driven methodology ready to use. 
+;I struggled to find a model-driven methodology that suited the needs of my stakeholders and was technically sound. 
+;It was costly* to define the model-driven approach because, e.g., my company did not have a modeling culture or I was not knowledgeable enough. * Costly = Time, money, cognitive effort. 
+Phase 2: Requirements Elicitation;I could not properly define the model requirements because, e.g., my stakeholders did not know exactly what they needed or the domain was unfamiliar to me.  
+;It was costly to define the model requirements because, e.g., there were too many stakeholders.
+Phase 3: Knowledge Acquisition;It was costly to learn the project's domain of interest because, e.g., I did not have experience in extracting domain knowledge from experts or they were not sufficiently available.
+;It was costly to negotiate a common definition among the experts about a concept of the project's domain of interest.
+;I was insecure about my knowledge about the project's domain of interest because, e.g., the domain was complex or the experts were not reliable.
+Phase 4: Model Creation;I could not accurately represent the project's domain of interest because, e.g., the language was not expressive enough or the tool did not fully implement the language.
+;I found it difficult to use the tool I had chosen. I did not know how to handle its features. It was complicated and had some bugs.
+;I was the only one on the team with experience in modeling. So I did everything myself. I wish I had had someone to discuss the challenges.
+;I wanted to reuse an existing model, but I had to redraw it from scratch. 
+;I did not know the right time to stop modeling. I was unsure if my model was ready to be used and had everything needed.
+;I could not make one of my diagrams look good.
+;I could not clarify my doubts about the language I had chosen because, e.g., there is no reference material (e.g. manuals, books) or community forum.
+;I was not sure which classes and relations should go in my diagram.
+;I did not know how to increase my model's comprehensibility.
+;I changed something in a class and then had to reorganize several diagrams in which the class occurs.
+;Creating the model took more effort than I expected, which resulted in unforeseen costs. 
+;Writing definitions for the elements in my model was hard and boring.
+;It was costly to manually split the model into visually appealing and understandable views (diagrams).
+;I was not comfortable using the language I chose because, e.g., it was not intuitive, I did not have enough training, or I did not know logic. 
+;My colleagues did not consider it important to document the model and did not understand my efforts to do so.
+;I was not sure how to document my model.
+;I wanted to reuse an existing model, but I had difficulty understanding it because, e.g., I only had access to part of it or it was poorly documented.
+Phase 5: Model Testing and Evaluation;I verified my model but did not understand the errors in it.
+;The tool I chose did not support model verification. My model was large and complex and verifying it by myself was not trivial.
+;I verified my model but did not know how to solve the errors in it.
+;I was not sure if my model was good enough.
+;My model was under- and/or over-constrained and I did not know how to fix it!
+;I had difficulty explaining my model to my stakeholders/domain experts.
+Phase 6: Model Implementation;I was the only one on the team interested in using and reusing the model.
+;The model was insufficient to achieve its application objective and I had to rework it.
+;My model was not (re)used because, e.g., my colleagues could not or did not want to use or it was not ready on time.
+;I felt like I was repeating myself when manually creating my database schema (or OWL vocabulary).
+Phase 7: Model Verbalization;It was costly to generate verbalizations of my model suitable for the different audiences that should be able to read and use it.
+Phase 8: Model Maintenance;The model has become too complex and too costly to maintain because, e.g., the tool did not support documentation or there were too many elements.
+;I left the project and there was no one to maintain the model.
