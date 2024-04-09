@@ -8,7 +8,7 @@ The term "pain points", originating from the domain of Marketing, denotes instan
 
 This study unfolds across six distinct stages and employs five methodological approaches, as depicted in the figure below:
 
-
+/Users/isadoravallesousa/Documents/GitHub/pain-points-modeling/Study_Method.png
 
 The materials and findings associated with each phase are documented and made available within the files contained within this repository.
 
