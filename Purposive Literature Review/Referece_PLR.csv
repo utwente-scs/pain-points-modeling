@@ -1,0 +1,33 @@
+﻿COD;Reference
+1;Kumari, N., & Pillai, A. S. (2014, March). A study on project scope as a requirements elicitation issue. In 2014 International Conference on Computing for Sustainable Global Development (INDIACom) (pp. 510-514). IEEE.
+2;France, R. (1999, October). A problem-oriented analysis of basic UML static requirements modeling concepts. In Proceedings of the 14th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications (pp. 57-69). 
+3;Herchi, H., & Abdessalem, W. B. (2012). From user requirements to UML class diagram. arXiv preprint arXiv:1211.0713.
+4;Lubars, M., Potts, C., & Richter, C. (1993, January). A Review of the State of the Practice in Requirements Modeling. In [1993] Proceedings of the IEEE International Symposium on Requirements Engineering (pp. 2-14). IEEE.
+5;Nuseibeh, B., & Easterbrook, S. (2000, May). Requirements engineering: a roadmap. In Proceedings of the Conference on the Future of Software Engineering (pp. 35-46).
+6;Dalpiaz, F., Gieske, P., & Sturm, A. (2021). On deriving conceptual models from user requirements: An empirical study. Information and Software Technology, 131, 106484.
+7;Cysneiros, L. M., & do Prado Leite, J. C. S. (2004). Nonfunctional requirements: From elicitation to conceptual models. IEEE transactions on Software engineering, 30(5), 328-350.
+8;Kotiadis, K., & Robinson, S. (2008, December). Conceptual modelling: knowledge acquisition and model abstraction. In 2008 Winter Simulation Conference (pp. 951-958). IEEE.
+9;Kao, D., & Archer, N. P. (1997). Abstraction in conceptual model design. International Journal of Human-Computer Studies, 46(1), 125-150.
+10;Reuter, R., Stark, T., Sedelmaier, Y., Landes, D., Mottok, J., & Wolff, C. (2020, April). Insights in students’ problems during UML modeling. In 2020 IEEE Global engineering education conference (EDUCON) (pp. 592-600). IEEE.
+11;Siau, K., & Loo, P. P. (2006). Identifying difficulties in learning UML. Information Systems Management, 23(3), 43-51.
+12;Song, I. Y., & Froehlich, K. (1994). Entity-relationship modeling. IEEE Potentials, 13(5), 29-34.
+13;Gleicher M. (2016). A Framework for Considering Comprehensibility in Modeling. Big data, 4(2), 75–88. 
+14;Aranda, J., Ernst, N., Horkoff, J., & Easterbrook, S. (2007, May). A framework for empirical evaluation of model comprehensibility. In International Workshop on Modeling in Software Engineering (MISE'07: ICSE Workshop 2007) (pp. 7-7). IEEE.
+15;Houy, C., Fettke, P., & Loos, P. (2012). Understanding understandability of conceptual models–what are we actually talking about?. In Conceptual Modeling: 31st International Conference ER 2012, Florence, Italy, October 15-18, 2012. Proceedings 31 (pp. 64-77). Springer Berlin Heidelberg.
+16;Renger, M., Kolfschoten, G. L., & de Vreede, G. J. (2008, June). Challenges in collaborative modeling: A literature review. In International Workshop on Cooperation and Interoperability, Architecture and Ontology (pp. 61-77). Berlin, Heidelberg: Springer Berlin Heidelberg.
+17;Richardson, G. P., & Andersen, D. F. (1995). Teamwork in group model building. System Dynamics Review, 11(2), 113-137.
+18;De Lucia, A., Gravino, C., Oliveto, R., & Tortora, G. (2010). An experimental comparison of ER and UML class diagrams for data modelling. Empirical Software Engineering, 15(5), 455-492.
+19;[Fettke, P. (2009). How conceptual modeling is used. Communications of the Association for Information Systems, 25(1), 43.
+20;Py, D., Auxepaules, L., & Alonso, M. (2013). Diagram, a learning environment for initiation to object-oriented modeling with UML class diagrams. Journal of Interactive Learning Research, 24(4), 425-446.
+21;Szlenk, M. (2006, May). Formal semantics and reasoning about UML class diagram. In 2006 International Conference on Dependability of Computer Systems (pp. 51-59). IEEE.
+22;Cabot, J., Claris, R., & Riera, D. (2008, April). Verification of UML/OCL class diagrams using constraint programming. In 2008 IEEE International Conference on Software Testing Verification and Validation Workshop (pp. 73-80). IEEE.
+23;Xia, Y., Wang, C., Shi, Z., Zhou, J., Lu, C., Huang, H., & Xiong, H. (2021, August). Medical entity relation verification with large-scale machine reading comprehension. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (pp. 3765-3774).
+24;Guizzardi, G., Fonseca, C. M., Almeida, J. P. A., Sales, T. P., Benevides, A. B., & Porello, D. (2021). Types and taxonomic structures in conceptual modeling: A novel ontological theory and engineering support. Data & Knowledge Engineering, 134, 101891.
+25;Guarino, N., Oberle, D., & Staab, S. (2009). What is an ontology?. Handbook on ontologies, 1-17.
+26;Guarino, N. (1997). Semantic matching: Formal ontological distinctions for information organization, extraction, and integration. In Information Extraction A Multidisciplinary Approach to an Emerging Information Technology: International Summer School, SCIE-97 Frascati, Italy, July 14–18, 1997 (pp. 139-170). Springer Berlin Heidelberg.
+27;Lindland, O. I., Sindre, G., & Solvberg, A. (1994). Understanding quality in conceptual modeling. IEEE software, 11(2), 42-49.
+28;Ramos, A. L., Ferreira, J. V., & Barceló, J. (2011). Model-based systems engineering: An emerging approach for modern systems. IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews), 42(1), 101-111.
+29;Henderson, K., & Salado, A. (2021). Value and benefits of model‐based systems engineering (MBSE): Evidence from the literature. Systems Engineering, 24(1), 51-66.
+30;Amorim, T., Vogelsang, A., Pudlitz, F., Gersing, P., & Philipps, J. (2019, May). Strategies and best practices for model-based systems engineering adoption in embedded systems industry. In 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (pp. 203-212). IEEE. 
+31;Nelson, H. J., Poels, G., Genero, M., & Piattini, M. (2012). A conceptual modeling quality framework. Software Quality Journal, 20, 201-228.
+32;Goulão, M., Amaral, V., & Mernik, M. (2016). Quality in model-driven engineering: a tertiary study. Software Quality Journal, 24, 601-633.
