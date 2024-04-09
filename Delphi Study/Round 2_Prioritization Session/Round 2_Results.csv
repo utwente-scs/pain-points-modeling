@@ -1,7 +1,7 @@
 ﻿Study 2: Prioritizing the pain points;;;;;;;;
 ;;;;;;;;
 Results of the Prioritization Sessions (Beginners);;;;;;;;
-Pain Point;Average;P1_B1;P2_B2;P3_B3;;;;
+Pain Point;Mean;P1_B1;P2_B2;P3_B3;;;;
 I could not properly define the model requirements because, e.g., my stakeholders did not know exactly what they needed or the domain was unfamiliar to me.;5,7;6;5;6;;;;
 My stakeholders resisted adopting modeling, a modeling language, or a tool because, e.g., they did not think it was worth it or I could not show its value.;5,3;4;6;6;;;;
 It was costly to negotiate a common definition among the experts about a concept of the project's domain of interest.;5,3;5;5;6;;;;
