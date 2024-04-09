@@ -1,4 +1,4 @@
-# the-pain-points-of-strucutural-conceptua-modeling
+# the-pain-points-of-strucutural-conceptual-modeling
 
 The present repository consolidates a series of pain points encountered by modelers when involved with structural conceptual modeling. Those pain points were identified through the investigation delineated in publication X.
 
