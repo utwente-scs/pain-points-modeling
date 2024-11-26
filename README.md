@@ -16,6 +16,7 @@ A comprehensive comprehension of this dataset holds the potential to refine and 
 	- [Results_TA.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Thematic%20Analysis/Results_TA.pdf)
 	- [Results_TA.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Thematic%20Analysis/Results_TA.csv)
 - [Virtual Brainstorming Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Virtual%20Brainstorming%20Session)
+	- [Brainstormingsession_Virtual Workspace](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Brainstormingsession_Virtual%20Workplace.pdf) 	
 	- [Results_VBS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Results_VBS.pdf)
 	- [Results_VBS.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Virtual%20Brainstorming%20Session/Results_VBS.csv)
 - [Purposive Literature Review](https://github.com/utwente-scs/pain-points-modeling/tree/main/Purposive%20Literature%20Review)
@@ -43,7 +44,7 @@ A comprehensive comprehension of this dataset holds the potential to refine and 
 
 - [Results_TA.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Thematic%20Analysis/Results_TA.pdf): The file comprises a table presenting the 16 pain points identified through the thematic analysis. Each pain point is accompanied by the text extracts utilized to substantiate its assertion. These extracts were drawn from nine semi-structured interviews with researchers and practitioners who worked on projects in Brazil, Italy, and the Netherlands.
 
-- [Brainstormingsession_Virtual Workspace](): The file is an image depicting the virtual workspace as visualized by the participant during the virtual brainstorming session.
+- [Brainstormingsession_Virtual Workspace](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Brainstormingsession_Virtual%20Workplace.pdf): The file is an image depicting the virtual workspace as visualized by the participant during the virtual brainstorming session.
 
 - [Results_VBS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Results_VBS.pdf): The file comprises a table presenting the 42 pain points identified through the virtual brainstorming session. Each pain point is linked to the participant who identified it. The session involved the participation of a diverse group of six structural conceptual modelers, ensuring fair representation across two factors: modeling expertise (novices and experts) and professional background (practitioners and academics).
 
