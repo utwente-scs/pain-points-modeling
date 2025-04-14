@@ -17,3 +17,39 @@ Quantifying the pain points of doming modeling guided by the research questions:
  - How often do modelers experience the pain points of domain modeling?
  - Why do modelers feel frustrated by these pain points?
  - How do modelers react when facing these pain points?
+
+ ## Table of Contents 
+
+[IST paper_Unrevealing the pain points of domain modeling](https://github.com/utwente-scs/pain-points-modeling/tree/main/IST%20paper_Unrevealing%20the%20pain%20points%20of%20domain%20modeling%20)
+- [Thematic Analysis](https://github.com/utwente-scs/pain-points-modeling/tree/main/Thematic%20Analysis)
+	- [Results_TA.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Thematic%20Analysis/Results_TA.pdf)
+	- [Results_TA.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Thematic%20Analysis/Results_TA.csv)
+- [Virtual Brainstorming Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Virtual%20Brainstorming%20Session)	
+	- [Results_VBS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Results_VBS.pdf)
+	- [Results_VBS.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Virtual%20Brainstorming%20Session/Results_VBS.csv)
+ 	- [VBS_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Brainstormingsession_Virtual%20Workplace.pdf)  
+- [Purposive Literature Review](https://github.com/utwente-scs/pain-points-modeling/tree/main/Purposive%20Literature%20Review)
+	- [Results_PLR.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Purposive%20Literature%20Review/Results_PLR.pdf)
+	- [Results_PLR.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Purposive%20Literature%20Review/Results_PLR.csv)
+	- [References_PLR.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Purposive%20Literature%20Review/Referece_PLR.csv)
+- [Qualitative Data Synthesis](https://github.com/utwente-scs/pain-points-modeling/tree/main/Qualitative%20Data%20Synthesis)
+	- [Results_QDS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Results_QDS.pdf)
+	- [Results_QDS.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Qualitative%20Data%20Synthesis/Results_QDS.csv)
+	- [Assembled Pain Points](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Assembled%20Pain%20Points.pdf)
+- [Delphy Study](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study)
+	- [Round 1_Voting Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session)
+		- [Voting Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session/Voting%20Sessions)
+		- [Round 1_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.pdf)
+		- [Round 1_Results.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.csv)
+		- [Round 1_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Virtual%20Workplace%20Design.pdf)
+	- [Round 2_Prioritization Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session)
+		- [Prioritization Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session/Prioritization%20Sessions)
+		- [Round 2_Matrix Weighting System](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Matrix%20Weighting%20System.pdf)
+		- [Round 2_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.pdf)
+		- [Round 2_Results.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.csv)
+		- [Round 2_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Virtual%20Workplace%20Design.pdf.pdf)
+
+[EDOC paper_Quantifying the pain points of domain modeling](https://github.com/utwente-scs/pain-points-modeling/tree/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling)
+-[Questionnaire_final.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling/Questionnaire_Final.pdf)
+-[Data collected]()
+-[Data analysis]()
