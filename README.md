@@ -10,7 +10,7 @@ By identifying these pain points and understanding their implications for modele
 
 Our study was divided into two papers:
 
-[Unrevealing the pain points of domain modeling] (https://www.sciencedirect.com/science/article/pii/S0950584925000758) driven by the research question: 
+[Unrevealing the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758) driven by the research question: 
  - What are the main pain points associated with domain modeling? 
 
 Quantifying the pain points of doming modeling guided by the research questions: 
@@ -50,6 +50,6 @@ Quantifying the pain points of doming modeling guided by the research questions:
 		- [Round 2_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Virtual%20Workplace%20Design.pdf.pdf)
 
 [EDOC paper_Quantifying the pain points of domain modeling](https://github.com/utwente-scs/pain-points-modeling/tree/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling)
--[Questionnaire_final.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling/Questionnaire_Final.pdf)
--[Data collected]()
--[Data analysis]()
+	-[Questionnaire_final.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling/Questionnaire_Final.pdf)
+	-[Data collected]()
+	-[Data analysis]()
