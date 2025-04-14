@@ -1,6 +1,6 @@
 # Unrevealing the pain points of domain modeling
 
-The present file consolidates the preliminary results and replication materials related to the study presented in [Unreavealing the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758).
+The present file consolidates the findings and replication materials related to the study presented in [Unreavealing the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758).
 
 This study unfolds across six distinct stages and employs five methodological approaches, as depicted in the figure below. The materials and findings associated with each phase are available is this repository.
 

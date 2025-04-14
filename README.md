@@ -1,67 +1,19 @@
 # The Pain Points of Domain Modeling
 
-The present repository consolidates a series of pain points encountered by modelers when involved with structural conceptual modeling. Those pain points were identified through the investigation delineated in publication X.
+The present repository consolidates the findings and replication materials from studies on the pain points of domain modeling. It is organized into two files, each corresponding to one of the papers resulting from the study.
 
-The term "pain points", originating from the domain of Marketing, denotes instances of customer dissatisfaction stemming from not having their expectations met through their experience with a particular product and/or service. Presuming that a portion of modeling costs correlates with the challenges encountered by modelers throughout the modeling process, we delve deeper into this phenomenon through an empirical study guided by the following research query: What constitutes the principal pain points of structural conceptual modeling?
+The term "pain points", originating from the domain of Marketing, denotes instances of customer dissatisfaction stemming from not having their expectations met through their experience with a particular product and/or service.
 
-This study unfolds across six distinct stages and employs five methodological approaches, as depicted in the figure below. The materials and findings associated with each phase are documented and made available within the files contained within this repository.
+To examine pain points in domain modeling, we conceptualize modeling as a dynamic interaction between multiple agents (e.g., modelers, domain experts, sponsors), products (e.g., models, languages, tools), and activities (e.g., requirements elicitation, concept negotiation). In this approach, pain points are instances of dissatisfaction that arise when modelers interact with other elements of the modeling process. For instance, such a moment arises when modelers and domain experts struggle to reach a shared understanding of a concept. Dissatisfaction may also occur when modelers feel overwhelmed by the manual effort involved in model verification or layout due to a tool's lack of features.
 
-![alt text](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Study_Method.png)
+By identifying these pain points and understanding their implications for modelers and the modeling process, our studies aim to enhance modelers’ experiences and improve the modeling practice. Additionally, they provide insights into the interactions among agents, products, and activities, helping practitioners anticipate and address potential challenges. Consequently, they equip the modeling community with knowledge to better plan initiatives, assess costs, identify solutions, refine methods, improve languages and tools, and guide novice modelers.
 
-A comprehensive comprehension of this dataset holds the potential to refine and advance modeling methodologies, languages, and tools, thereby improving the experiences of modelers. Additionally, it may contribute to several objectives, including (i) assessing the costs of modeling, (ii) identifying alternative solutions to deal with modeling difficulties, and (iii) facilitating the learning process for novice modelers.
+Our study was divided into two papers:
 
-## Table of Contents 
+[Unrevealing the pain points of domain modeling] (https://www.sciencedirect.com/science/article/pii/S0950584925000758) driven by the research question: 
+ - What are the main pain points associated with domain modeling? 
 
-- [Thematic Analysis](https://github.com/utwente-scs/pain-points-modeling/tree/main/Thematic%20Analysis)
-	- [Results_TA.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Thematic%20Analysis/Results_TA.pdf)
-	- [Results_TA.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Thematic%20Analysis/Results_TA.csv)
-- [Virtual Brainstorming Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Virtual%20Brainstorming%20Session)	
-	- [Results_VBS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Results_VBS.pdf)
-	- [Results_VBS.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Virtual%20Brainstorming%20Session/Results_VBS.csv)
- 	- [VBS_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Brainstormingsession_Virtual%20Workplace.pdf)  
-- [Purposive Literature Review](https://github.com/utwente-scs/pain-points-modeling/tree/main/Purposive%20Literature%20Review)
-	- [Results_PLR.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Purposive%20Literature%20Review/Results_PLR.pdf)
-	- [Results_PLR.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Purposive%20Literature%20Review/Results_PLR.csv)
-	- [References_PLR.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Purposive%20Literature%20Review/Referece_PLR.csv)
-- [Qualitative Data Synthesis](https://github.com/utwente-scs/pain-points-modeling/tree/main/Qualitative%20Data%20Synthesis)
-	- [Results_QDS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Results_QDS.pdf)
-	- [Results_QDS.cvs](https://raw.githubusercontent.com/utwente-scs/pain-points-modeling/main/Qualitative%20Data%20Synthesis/Results_QDS.csv)
-	- [Assembled Pain Points](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Assembled%20Pain%20Points.pdf)
-- [Delphy Study](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study)
-	- [Round 1_Voting Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session)
-		- [Voting Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session/Voting%20Sessions)
-		- [Round 1_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.pdf)
-		- [Round 1_Results.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.csv)
-		- [Round 1_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Virtual%20Workplace%20Design.pdf)
-	- [Round 2_Prioritization Session](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session)
-		- [Prioritization Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session/Prioritization%20Sessions)
-		- [Round 2_Matrix Weighting System](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Matrix%20Weighting%20System.pdf)
-		- [Round 2_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.pdf)
-		- [Round 2_Results.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.csv)
-		- [Round 2_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Virtual%20Workplace%20Design.pdf.pdf)
-
-## Content Description 
-
-- [Results_TA.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Thematic%20Analysis/Results_TA.pdf): The file comprises a table presenting the 16 pain points identified through the thematic analysis. Each pain point is accompanied by the text extracts utilized to substantiate its assertion. These extracts were drawn from nine semi-structured interviews with researchers and practitioners who worked on projects in Brazil, Italy, and the Netherlands.
-
-- [Results_VBS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Results_VBS.pdf): The file comprises a table presenting the 42 pain points identified through the virtual brainstorming session. Each pain point is linked to the participant who identified it. The session involved the participation of a diverse group of six structural conceptual modelers, ensuring fair representation across two factors: modeling expertise (novices and experts) and professional background (practitioners and academics).
-
-- [VBS_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Virtual%20Brainstorming%20Session/Brainstormingsession_Virtual%20Workplace.pdf): The file is an image depicting the virtual workspace as visualized by the participant during the virtual brainstorming session. 
-
-- [Results_PLR.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Purposive%20Literature%20Review/Results_PLR.pdf): The file comprises a table presenting the 13 pain points identified through the purposive literature review. Each pain point is paired with the references utilized to substantiate its assertion. The references are listed below the table for further review. 
-
-- [Results_QDS.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Qualitative%20Data%20Synthesis/Results_QDS.pdf): The file comprises a table presenting the 41 pain points resulting from the qualitativa data synthesis.
-
-- [Voting Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%201_Voting%20Session/Voting%20Sessions): The folder comprises the outcomes of the voting session conducted by each participant.
-
-- [Round 1_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Results.pdf): The file comprises a table presenting the count of votes submitted by each participant in each voting session. Note that the 19 pain points highlighted in gray within the table are those that garnered a minimum of two votes and were consequently included in the prioritization session.
-
-- [Round 1_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%201_Voting%20Session/Round%201_Virtual%20Workplace%20Design.pdf): The file is an image depicting the virtual workspace as visualized by the participant during the voting session.
-
-- [Prioritization Sessions](https://github.com/utwente-scs/pain-points-modeling/tree/main/Delphi%20Study/Round%202_Prioritization%20Session/Prioritization%20Sessions): The folder comprises the outcomes of the prioritization session conducted by each participant.
-
-- [Round 2_Matrix Weighting System](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Matrix%20Weighting%20System.pdf): The file is an image depicting the matrix weighting system used as a reference to quantify the prioritization conducted by the participants during the prioritization sessions.
-
-- [Round 2_Results.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Results.pdf): The file comprises three tables presenting the prioritizations conducted by the participants during the prioritization sessions. Table 1 presents the prioritizations conducted by beginners, Table 2 presents the prioritizations conducted by experts, and Table 3 presents both prioritizations, ranking the results by mean. Note that, in Table 3, pain points highlighted in green were prioritized by both beginner and expert modelers, while those highlighted in yellow were prioritized solely by beginners, and those highlighted in blue were prioritized solely by experts. These 16 highlighted pain points are the most frequent and have the greatest impact on the structural conceptual modeling experience according to the modelers who participated in the study. 
-
-- [Round 2_Virtual Workspace Design](https://github.com/utwente-scs/pain-points-modeling/blob/main/Delphi%20Study/Round%202_Prioritization%20Session/Round%202_Virtual%20Workplace%20Design.pdf.pdf): The file is an image depicting the virtual workspace as visualized by the participant during the prioritization session.
+Quantifying the pain points of doming modeling guided by the research questions: 
+ - How often do modelers experience the pain points of domain modeling?
+ - Why do modelers feel frustrated by these pain points?
+ - How do modelers react when facing these pain points?
