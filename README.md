@@ -53,5 +53,5 @@ Quantifying the pain points of doming modeling guided by the research questions:
 - [Survey_questionnaire.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling/Questionnaire_Final.pdf)
 - [Survey data collected](https://github.com/utwente-scs/pain-points-modeling/tree/main/EDOC%20Paper_Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected)
   	- [Survey_data.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SurveyData.csv)
-        - [Survey_dara.xlsx](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SuveyData.xlsx)
+	- [Survey_dara.xlsx](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SuveyData.xlsx)
 - [Survey data analysis]()
