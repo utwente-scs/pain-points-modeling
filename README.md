@@ -1,6 +1,6 @@
 # The Pain Points of Domain Modeling
 
-The present repository consolidates the findings and replication materials from studies on the pain points of domain modeling. It is organized into two files, each corresponding to one of the papers resulting from the study.
+This repository consolidates the findings, as well as the replication and supplementary materials, from our studies on the pain points of domain modeling. It is organized into two folders, each corresponding to one of the resulting papers.
 
 The term "pain points", originating from the domain of Marketing, denotes instances of customer dissatisfaction stemming from not having their expectations met through their experience with a particular product and/or service.
 
