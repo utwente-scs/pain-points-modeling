@@ -10,7 +10,7 @@ By identifying these pain points and understanding their implications for modele
 
 Our study was divided into two papers:
 
-[Unrevealing the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758) driven by the research question: 
+[Unraveling the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758) driven by the research question: 
  - What are the main pain points associated with domain modeling? 
 
 Quantifying the pain points of doming modeling guided by the research questions: 
@@ -20,7 +20,7 @@ Quantifying the pain points of doming modeling guided by the research questions:
 
  ## Table of Contents 
 
-[Unrevealing the pain points of domain modeling](https://github.com/utwente-scs/pain-points-modeling/tree/main/Unrevealing%20the%20pain%20points%20of%20domain%20modeling%20)
+[Unraveling the pain points of domain modeling](https://github.com/utwente-scs/pain-points-modeling/tree/main/Unrevealing%20the%20pain%20points%20of%20domain%20modeling%20)
 - [Thematic Analysis](https://github.com/utwente-scs/pain-points-modeling/tree/main/Unrevealing%20the%20pain%20points%20of%20domain%20modeling%20/Thematic%20Analysis)
 	- [Results_TA.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Unrevealing%20the%20pain%20points%20of%20domain%20modeling%20/Thematic%20Analysis/Results_TA.pdf)
 	- [Results_TA.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Unrevealing%20the%20pain%20points%20of%20domain%20modeling%20/Thematic%20Analysis/Results_TA.csv)
