@@ -4,7 +4,7 @@ The present file consolidates the findings and replication materials related to 
 
 This study unfolds across six distinct stages and employs five methodological approaches, as depicted in the figure below. The materials and findings associated with each phase are available is this repository.
 
-![alt text](https://github.com/utwente-scs/pain-points-modeling/blob/main/IST%20paper_Unraveling%20the%20pain%20points%20of%20domain%20modeling%20/Study_Method.png)
+![alt text](https://github.com/utwente-scs/pain-points-modeling/blob/main/Unraveling%20the%20pain%20points%20of%20domain%20modeling%20/Study_Method.png)
 
 ## Table of Contents 
 
