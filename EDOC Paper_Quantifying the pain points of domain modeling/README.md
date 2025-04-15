@@ -15,7 +15,7 @@ In this study, we conducted an online survey targeting modelers with experience 
 
 ## Content description
 
-[Survey_questionnaire.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling/Questionnaire_Final.pdf): The file comprises the survey questionnaire we used in our study. 
-[Survey_data.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SurveyData.csv): The file comprises the data collected through the survey. The data presented was processed and organized to better understand. 
-[Survey data analysis]()
+- [Survey_questionnaire.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifing%20the%20pain%20points%20of%20domain%20modeling/Questionnaire_Final.pdf): The file comprises the survey questionnaire we used in our study. 
+- [Survey_data.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/EDOC%20Paper_Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SurveyData.csv): The file comprises the data collected through the survey. The data presented was processed and organized to better understand. 
+- [Survey data analysis]()
 
