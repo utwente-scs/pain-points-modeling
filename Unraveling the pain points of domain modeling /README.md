@@ -2,7 +2,7 @@
 
 The present file consolidates the findings and replication materials related to the study presented in [Unraveling the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758).
 
-This study unfolds across six distinct stages and employs five methodological approaches, as depicted in the figure below. The materials and findings associated with each phase are available is this repository.
+This study unfolds across six distinct stages and employs five methodological approaches, as depicted in the figure below.
 
 ![alt text](https://github.com/utwente-scs/pain-points-modeling/blob/main/Unraveling%20the%20pain%20points%20of%20domain%20modeling%20/Study_Method.png)
 
