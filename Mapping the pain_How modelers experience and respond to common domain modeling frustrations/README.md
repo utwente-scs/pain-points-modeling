@@ -9,7 +9,7 @@ In this study, we conducted an online survey targeting modelers with experience 
 
  ## Table of Contents 
 
-- [Survey_questionnaire](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire)
+- [Survey questionnaire](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire)
 	- [Questionnaire_FinalVersion](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire/Questionnaire_FinalVersion.pdf)
   	- [Questionnaire_Structure](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire/Questionnaire_Structure.png)
 - [Survey data collected](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Suvey%20data%20collected)
