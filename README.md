@@ -13,7 +13,7 @@ Our study was divided into two papers:
 [Unraveling the pain points of domain modeling](https://www.sciencedirect.com/science/article/pii/S0950584925000758), driven by the research question: 
  - What are the main pain points associated with domain modeling? 
 
-Mapping the pain: How modelers experience and respond to common domain modeling frustrations, guided by the following research questions:
+Mapping the pain: How modelers experience and respond to common domain modeling frustrations, guided by the research questions:
  - How often do modelers experience the pain points of domain modeling?
  - Why do modelers feel frustrated by these pain points?
  - How do modelers react when facing these pain points?
