@@ -1,21 +1,42 @@
-# The Pain Points of Domain Modeling
+# Mapping the pain: How modelers experience and respond to common domain modeling frustrations
 
-The present file consolidates the supplementary material for the study presented in Quantifying the pain points of domain modeling. 
+The present file consolidates the findings and supplementary material for the study presented in Mapping the pain: How modelers experience and respond to common domain modeling frustrations.
 
-In this study, we conducted an online survey targeting modelers with experience in domain modeling. We got 49 responses from a diverse sample in terms of years of experience, activities performed, and application context. The study focuses on descriptive analysis over statistical inference. 
+In this study, we conducted an online survey targeting modelers with experience in domain modeling. The research followed the survey process illustrated in the figure below. We got 49 responses from a diverse sample in terms of years of experience, activities performed, and application context. The analysis focuses on describing patterns in the data rather than drawing statistical inferences.
+
+![alt text](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Study_Method.png)
 
 
  ## Table of Contents 
 
-- [Survey_questionnaire.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey_Questionnaire.pdf)
-- [Survey data collected](https://github.com/utwente-scs/pain-points-modeling/tree/main/Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected)
-  	- [Survey_data.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SurveyData.csv)
-	- [Survey_dara.xlsx](https://github.com/utwente-scs/pain-points-modeling/blob/main/Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SuveyData.xlsx)
-- [Survey data analysis]()
+[Mapping the pain: How modelers experience and respond to common domain modeling frustrations](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations)
+- [Survey_questionnaire](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire)
+	- [Questionnaire_FinalVersion](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire/Questionnaire_FinalVersion.pdf)
+  	- [Questionnaire_Structure](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20questionnaire/Questionnaire_Structure.png)
+- [Survey data collected](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Suvey%20data%20collected)
+  	- [Survey_data.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Suvey%20data%20collected/Survey_Data.csv)
+	- [Survey_data.xlsx](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Suvey%20data%20collected/Survey_Data.xlsx)
+- [Survey data analysis](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis)
+	- [Pain point report questions(RQs)](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs))
+ 		- [RQ1.1_Frequency_Experience.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ1.1_Frequency_Experience.pdf)
+		- [RQ1.2_Frequency_Frequency.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ1.2_Frequency_Frequency.pdf)
+		- [RQ2.1_Reason_WasteTime.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ2.1_Reason_WasteTime.pdf)
+		- [RQ2.2_Reason_HigherCosts.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ2.2_Reason_HigherCosts.pdf)
+		- [RQ2.3_Reason_GoalsDisatisfaction.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ2.3_Reason_GoalsDisatisfaction.pdf)
+		- [RQ2.4_Reason_NegativeFeelings.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ2.4_Reason_NegativeFeelings.pdf)
+		- [RQ2.5_Reason_Other.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Pain%20point%20report%20questions%20(RQs)/RQ2.5_Reason_Other.pdf)
+  	- [Personal questions (PQs)](https://github.com/utwente-scs/pain-points-modeling/tree/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs))
+		- [PQ1.1_Modeling_language_experience.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ1.1_Modeling_language_experience.pdf)
+		- [PQ1.2_Modeling_language_reference.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ1.2_Modeling_language_reference.pdf)
+		- [PQ2.1_Modeling_tool_experiences.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ2.1_Modeling_tool_experiences.pdf)
+		- [PQ2.2_Modeling_tool_reference.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ2.2_Modeling_tool_reference.pdf)
+		- [PQ3_Modeling_exp_time.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ3_Modeling_exp_time.pdf)
+		- [PQ4_Modeling_activities.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ4_Modeling_activities.pdf)
+		- [PQ5_Modeling_Self-evaluation.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ5_Modeling_Self-evaluation.pdf)
+		- [PQ6_Modeling_context.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ6_Modeling_context.pdf)
+		- [PQ7_Modeling_learning.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ7_Modeling_learning.pdf)
+		- [PQ8_Educational_level.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Mapping%20the%20pain_How%20modelers%20experience%20and%20respond%20to%20common%20domain%20modeling%20frustrations/Survey%20data%20analysis/Personal%20questions%20(PQs)/PQ8_Educational_level.pdf)
 
 ## Content description
 
-- [Survey_questionnaire.pdf](https://github.com/utwente-scs/pain-points-modeling/blob/main/Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey_Questionnaire.pdf): The file comprises the survey questionnaire we used in our study. 
-- [Survey_data.cvs](https://github.com/utwente-scs/pain-points-modeling/blob/main/Quantifying%20the%20pain%20points%20of%20domain%20modeling/Suvey%20data%20collected/SurveyData.csv): The file comprises the data collected through the survey. The data presented has been processed and organised for better understanding. 
-- [Survey data analysis]()
 
